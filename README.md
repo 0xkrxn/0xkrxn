@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.png" width="100%" height="350" style="object-fit:cover; object-position:center top;" alt="0xkrxn"/>
+<img src="./header.png" width="100%" alt="0xkrxn"/>
 
 ### *"i didn't come this far to only come this far."*
 
@@ -77,8 +77,6 @@ student by day · AI tinkerer by night · robotics enthusiast always
 
 <div align="center">
 
-*every commit is a small, desperate attempt to make sense of the world.*
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer)
+<img src="./footer.png" width="100%" alt="Directed and Written by 0xKrxn"/>
 
 </div>
