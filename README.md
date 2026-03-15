@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.png" width="100%" alt="0xkrxn"/>
+<img src="./header.png" width="100%" height="350" style="object-fit:cover; object-position:center top;" alt="0xkrxn"/>
 
 ### *"i didn't come this far to only come this far."*
 
