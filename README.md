@@ -64,12 +64,26 @@ student by day · AI tinkerer by night · robotics enthusiast always
 
 ---
 
-### ◈ stats
+### ◈ statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xkrxn&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa&ring_color=ffffff&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xkrxn&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa" height="165"/>
+<table>
+<tr>
+<td>
+
+![0xkrxn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xkrxn&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa&ring_color=ffffff&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+</td>
+<td>
+
+![Streak Stats](https://streak-stats.demolab.com?user=0xkrxn&theme=dark&hide_border=true&background=0d0d0d&stroke=444444&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&currStreakNum=ffffff&sideNums=aaaaaa)
+
+</td>
+</tr>
+</table>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xkrxn&bg_color=0d0d0d&color=aaaaaa&line=ffffff&point=ffffff&area=true&hide_border=true&area_color=333333)
 
 </div>
 
@@ -79,8 +93,8 @@ student by day · AI tinkerer by night · robotics enthusiast always
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23ffffff?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/YOUR_INSTAGRAM)
-[![Discord](https://img.shields.io/badge/Discord-%23ffffff?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Instagram](https://img.shields.io/badge/Instagram-%23ffffff?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/krxn.fn/)
+[![Discord](https://img.shields.io/badge/Discord-%23ffffff?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/1349334927648362497)
 
 </div>
 
