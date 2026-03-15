@@ -20,6 +20,13 @@ student by day · AI tinkerer by night · robotics enthusiast always
 
 ### ◈ about
 
+<table>
+<tr>
+<td width="35%" align="center">
+<img src="./avatar.gif" width="200px" alt="0xkrxn"/>
+</td>
+<td width="65%" valign="top">
+
 ```python
 0xkrxn = {
     "age"      : 16,
@@ -34,6 +41,10 @@ student by day · AI tinkerer by night · robotics enthusiast always
 > i'm 16 and i stopped waiting to be "old enough" to build real things.  
 > i talk to AI more than most people talk to their friends.  
 > that's either a superpower or a red flag — i choose superpower.
+
+</td>
+</tr>
+</table>
 
 ---
 
