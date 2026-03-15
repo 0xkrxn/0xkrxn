@@ -77,6 +77,6 @@ student by day · AI tinkerer by night · robotics enthusiast always
 
 <div align="center">
 
-<img src="./footer.png" width="100%" alt="Directed and Written by 0xKrxn"/>
+<img src="./The End.png" width="100%" alt="Directed and Written by 0xKrxn"/>
 
 </div>
