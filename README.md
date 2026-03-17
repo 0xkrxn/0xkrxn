@@ -38,7 +38,7 @@ student by day · AI tinkerer by night · robotics enthusiast always
 }
 ```
 
-> i'm 16 and i stopped waiting to be "old enough" to build real things.  
+> i'm 15 and i stopped waiting to be "old enough" to build real things.  
 > i talk to AI more than most people talk to their friends.  
 > that's either a superpower or a red flag — i choose superpower.
 
