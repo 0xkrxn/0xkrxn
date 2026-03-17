@@ -29,7 +29,7 @@ student by day · AI tinkerer by night · robotics enthusiast always
 
 ```python
 0xkrxn = {
-    "age"      : 16,
+    "age"      : 15,
     "status"   : "student by day, AI tinkerer by night",
     "obsessed" : ["AI", "Robotics", "Python"],
     "tools"    : ["Claude", "ChatGPT", "Perplexity"],
