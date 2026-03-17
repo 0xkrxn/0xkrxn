@@ -59,6 +59,7 @@ student by day · AI tinkerer by night · robotics enthusiast always
 ![Claude](https://img.shields.io/badge/Claude-%23111111?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%23111111?style=for-the-badge&logo=openai&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-%23111111?style=for-the-badge&logo=perplexity&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-%23111111?style=for-the-badge&logo=gemini&logoColor=white)
 
 </div>
 
